@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781449028524",
+    "project_id": "ddiary-app",
+    "storage_bucket": "ddiary-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781449028524:android:7c5143b38e1a15613f9009",
+        "android_client_info": {
+          "package_name": "com.example.patient_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781449028524-sr0t9rme9hv5ir8tmualqs87o6i9vatr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA35uYdoQri2KzwVVdu_8WA1eCoKQJKiWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781449028524-sr0t9rme9hv5ir8tmualqs87o6i9vatr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
